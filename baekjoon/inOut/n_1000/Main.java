@@ -1,4 +1,4 @@
-package baekjoon.inOut_1000;
+package baekjoon.inOut.n_1000;
 
 import java.util.Scanner;
 

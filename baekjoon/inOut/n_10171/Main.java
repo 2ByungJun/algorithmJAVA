@@ -1,4 +1,4 @@
-package baekjoon.inOut_10171;
+package baekjoon.inOut.n_10171;
 
 public class Main {
     public static void main(String[] args) {
